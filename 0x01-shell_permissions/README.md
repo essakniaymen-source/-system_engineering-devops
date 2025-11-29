@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# 0x01-shell_permissions
+(remote version content)
 =======
-#0x01-shell_permissions
+(your local version content)
+>>>>>>> 08e4ed7... whoami updated
 
->>>>>>> 08e4ed7 (whoami updated)
