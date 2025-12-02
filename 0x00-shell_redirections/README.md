@@ -1,1 +1,1 @@
-0x00-shell_redirections
+# 0x00-shell_redirections
